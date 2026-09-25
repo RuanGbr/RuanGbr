@@ -39,7 +39,7 @@ Atualmente, estou aprimorando meus conhecimentos em Front-end, Back-end e Banco 
 🔧 Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
 ---
