@@ -1,16 +1,64 @@
-## Hi there 👋
+### 👋 Olá, eu sou Ruan Gabriel
 
-<!--
-**RuanGbr/RuanGbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor Full Stack em constante evolução
 
-Here are some ideas to get you started:
+Apaixonado por tecnologia e desenvolvimento web, venho construindo minha experiência através de projetos práticos e explorando diferentes áreas da programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou aprimorando meus conhecimentos em Front-end, Back-end e Banco de Dados, com foco em criar aplicações funcionais e aprimorar continuamente minhas habilidades.
+
+---
+
+### 👨‍💻 Sobre mim
+
+* 🚀 Desenvolvimento Full Stack
+* 🧠 Interesse em desenvolvimento de aplicações e resolução de problemas
+* 🌱 Sempre explorando novas tecnologias e boas práticas de desenvolvimento
+
+---
+
+### 🛠️ Tecnologias
+
+🎨 Front-end
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
+
+⚙️ Back-end
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+🗄️ Banco de Dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,prisma" />
+</p>
+
+🔧 Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,docker" />
+</p>
+
+---
+
+### 🌱 Atualmente
+
+Aprofundando meus conhecimentos em:
+
+JavaScript TypeScript React Node.js Express PostgreSQL Prisma Docker
+
+---
+
+### 📫 Contato
+
+<p align="left">
+  <a href="https://github.com/RuanGbr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ruangabriel2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
