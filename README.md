@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor Full Stack em constante evolução
 
-Apaixonado por tecnologia e desenvolvimento web, venho construindo minha experiência através de projetos práticos e explorando diferentes áreas da programação.
+Apaixonado por desenvolvimento web, venho construindo minha experiência através de projetos e explorando diferentes áreas da programação.
 
 Atualmente, estou aprimorando meus conhecimentos em Front-end, Back-end e Banco de Dados, com foco em criar aplicações funcionais e aprimorar continuamente minhas habilidades.
 
